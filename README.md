@@ -1,7 +1,7 @@
 # Portfolio README
 
 ## 🌐 Portfolio URL
-[YourName].com
+https://beldinaportfolio.netlify.app
 
 ## 🤝 About Me
 Hello! I'm Beldina Kinya, a passionate and creative Data Analyst and aspiring software developer. Through my portfolio, I showcase my work, skills, and dedication to my craft.
