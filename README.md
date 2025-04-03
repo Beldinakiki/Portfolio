@@ -27,7 +27,6 @@ This website is a comprehensive collection of my projects, skills, educational b
 ## 🤝 Contact Information
 If you want to connect, collaborate, or discuss potential job opportunities, please feel free to reach out:
 - Email: kinyuabeldina@gmail.com
-- Phone: +254 113839448
 - LinkedIn: (https://www.linkedin.com/in/beldina-kinyua-b36102337/)
 
 Thank You and Have a Nice Day!
